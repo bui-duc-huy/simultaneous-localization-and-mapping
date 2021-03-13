@@ -1,3 +1,3 @@
-# Simultaneous localization and mapping - Reference by Geohot
+# Simultaneous localization and mapping - Reference from Geohot
 A toy implementation of monocular SLAM
 
